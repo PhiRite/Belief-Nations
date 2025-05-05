@@ -81,7 +81,7 @@
     },
 	{
         "name": "Corrupted",
-        "uniques": ["Consumes [-1] [Warp Shard] <for every [1] [Era Counter]> <hidden from users>",
+        "uniques": ["Consumes [-1] [Warp Shard] <hidden from users>",
                     "May Paradrop up to [5] tiles from inside friendly territory",
                     "No damage penalty for wounded units",
                     "[-100]% maintenance costs", "Can build [Land] improvements on tiles",
@@ -117,8 +117,8 @@
     },
     {
         "name": "Evolution I",
-        "uniques": ["Free Social Policy <for [1] movement> <costs [200] [Warp Shard]>",
-					"Free Technology <for [1] movement> <costs [200] [Warp Shard]>",
+        "uniques": ["Free Social Policy <for [1] movement> <costs [250] [Warp Shard]>",
+					"Free Technology <for [1] movement> <costs [250] [Warp Shard]>",
             
                     "[1] free [Scout] units appear <for [1] movement> <costs [60] [Warp Shard]>",
 					"[1] free [Warrior] units appear <for [1] movement> <costs [100] [Warp Shard]>",
@@ -126,8 +126,8 @@
     },
     {
         "name": "Evolution II",
-        "uniques": ["Free Social Policy <for [1] movement> <costs [300] [Warp Shard]>",
-					"Free Technology <for [1] movement> <costs [300] [Warp Shard]>",
+        "uniques": ["Free Social Policy <for [1] movement> <costs [350] [Warp Shard]>",
+					"Free Technology <for [1] movement> <costs [350] [Warp Shard]>",
 
 					"[1] free [Spearman] units appear <for [1] movement> <costs [150] [Warp Shard]>",
                     "[1] free [Catapult] units appear <for [1] movement> <costs [150] [Warp Shard]>",
@@ -135,8 +135,8 @@
     },
     {
         "name": "Evolution III",
-        "uniques": ["Free Social Policy <for [1] movement> <costs [400] [Warp Shard]>",
-					"Free Technology <for [1] movement> <costs [400] [Warp Shard]>",
+        "uniques": ["Free Social Policy <for [1] movement> <costs [450] [Warp Shard]>",
+					"Free Technology <for [1] movement> <costs [450] [Warp Shard]>",
 
 					"[1] free [Knight] units appear <for [1] movement> <costs [200] [Warp Shard]>",
                     "[1] free [Trebuchet] units appear <for [1] movement> <costs [200] [Warp Shard]>",
