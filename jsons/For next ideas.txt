@@ -1,0 +1,9 @@
+Zealots + crusade:
+    Penitent engine as Unit:  
+        this specifically has the zealot promtions
+        
+    old crusade promtion as mechanics:
+        fatih as dmg, status/promotion when near penitents/ new fort/citadel improvement
+    golden age points on hit, golden age affects all stats
+    
+    
