@@ -7,7 +7,7 @@
 		"uniques": ["Can be built outside your borders", "Consumes [-1] [Warp Shard] <for every [1] [Era Counter]> <hidden from users>",
 				        "Gain control over [All] tiles in a [0]-tile radius", "Removes removable features when built",
 					"[-5 Food, -5 Culture, -5 Science, -5 Gold, -5 Faith, -5 Production] <in [Enemy Land] tiles>",
-					"Does not need removal of [Forest]","Does not need removal of [Jungle]", "Unpillagable"],
+					"Does not need removal of [Forest]","Does not need removal of [Jungle]"],
 		"civilopediaText": [
 			{"text": "The Truth seeping out."}
         ]
@@ -21,7 +21,7 @@
 					"[-10 Food, -10 Culture, -10 Science, -10 Gold, -10 Faith, -10 Production] <in [Enemy Land] tiles>",
 					"Consumes [-1] [Warp Shard] <with [1] to [6] neighboring [Corruption] tiles>",
                     "Gain control over [All] tiles in a [1]-tile radius", "Tile provides yield without assigned population",
-					"Removes removable features when built", "Unpillagable",
+					"Removes removable features when built",
 					"Does not need removal of [Forest]","Does not need removal of [Jungle]"],
 		"civilopediaText": [
 			{"text": "Beginnings of an Invasion."}
