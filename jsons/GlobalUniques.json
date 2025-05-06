@@ -3,5 +3,7 @@
     "uniques": [],
     "unitUniques": ["[This Unit] gains the [Corrupted] promotion <upon turn end> <for [All] units> <for [Warp Invasion] Civilizations>",
                     "[This Unit] gains the [Plague] promotion <upon turn end> <for [Land] units> <for [Warp Invasion] Civilizations>",
-                    "[This Unit] gains the [Wrath] promotion <upon turn end> <for [Melee] units> <for [Warp Invasion] Civilizations>",]
+                    "[This Unit] gains the [Wrath] promotion <upon turn end> <for [Melee] units> <for [Warp Invasion] Civilizations>",
+                    "[This Unit] takes [5] damage <upon ednding a turn in a [Corruption] tile> <for [non-[Corrupted] Units]>",
+                    "[This Unit] takes [15] damage <upon ednding a turn in a [Portal] tile> <for [non-[Corrupted] Units]>",]
 }
