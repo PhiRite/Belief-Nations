@@ -119,8 +119,8 @@
     },
     {
         "name": "Evolution I",
-        "uniques": ["Free Social Policy <for [1] movement> <costs [250] [Warp Shard]>",
-					"Free Technology <for [1] movement> <costs [250] [Warp Shard]>",
+        "uniques": ["Free Social Policy <for [1] movement> <costs [300] [Warp Shard]>",
+					"Free Technology <for [1] movement> <costs [300] [Warp Shard]>",
             
                     "[1] free [Scout] units appear <for [1] movement> <costs [60] [Warp Shard]>",
 					"[1] free [Warrior] units appear <for [1] movement> <costs [100] [Warp Shard]>",
@@ -128,8 +128,8 @@
     },
     {
         "name": "Evolution II",
-        "uniques": ["Free Social Policy <for [1] movement> <costs [350] [Warp Shard]>",
-					"Free Technology <for [1] movement> <costs [350] [Warp Shard]>",
+        "uniques": ["Free Social Policy <for [1] movement> <costs [400] [Warp Shard]>",
+					"Free Technology <for [1] movement> <costs [400] [Warp Shard]>",
 
 					"[1] free [Spearman] units appear <for [1] movement> <costs [150] [Warp Shard]>",
                     "[1] free [Catapult] units appear <for [1] movement> <costs [150] [Warp Shard]>",
@@ -137,8 +137,8 @@
     },
     {
         "name": "Evolution III",
-        "uniques": ["Free Social Policy <for [1] movement> <costs [450] [Warp Shard]>",
-					"Free Technology <for [1] movement> <costs [450] [Warp Shard]>",
+        "uniques": ["Free Social Policy <for [1] movement> <costs [500] [Warp Shard]>",
+					"Free Technology <for [1] movement> <costs [500] [Warp Shard]>",
 
 					"[1] free [Knight] units appear <for [1] movement> <costs [250] [Warp Shard]>",
                     "[1] free [Trebuchet] units appear <for [1] movement> <costs [200] [Warp Shard]>",
@@ -146,47 +146,47 @@
     },
     {
         "name": "Evolution IV",
-        "uniques": ["Free Social Policy <for [1] movement> <costs [550] [Warp Shard]>",
-					"Free Technology <for [1] movement> <costs [550] [Warp Shard]>",
+        "uniques": ["Free Social Policy <for [1] movement> <costs [600] [Warp Shard]>",
+					"Free Technology <for [1] movement> <costs [600] [Warp Shard]>",
 
 					"[1] free [Musketeer] units appear <for [1] movement> <costs [300] [Warp Shard]>",
-                    "[1] free [Cannon] units appear <for [1] movement> <costs [320] [Warp Shard]>",
+                    "[1] free [Cannon] units appear <for [1] movement> <costs [350] [Warp Shard]>",
 					"[1] free [Caravel] units appear <for [1] movement> <costs [300] [Warp Shard]>"]
     },
     {
         "name": "Evolution V",
-        "uniques": ["Free Social Policy <for [1] movement> <costs [600] [Warp Shard]>",
-					"Free Technology <for [1] movement> <costs [600] [Warp Shard]>",
+        "uniques": ["Free Social Policy <for [1] movement> <costs [700] [Warp Shard]>",
+					"Free Technology <for [1] movement> <costs [700] [Warp Shard]>",
 
 					"[1] free [Rifleman] units appear <for [1] movement> <costs [400] [Warp Shard]> ",
-                    "[1] free [Artillery] units appear <for [1] movement> <costs [420] [Warp Shard]>",
+                    "[1] free [Artillery] units appear <for [1] movement> <costs [450] [Warp Shard]>",
 					"[1] free [Ironclad] units appear <for [1] movement> <costs [400] [Warp Shard]>"]
     },
     {
         "name": "Evolution VI",
-        "uniques": ["Free Social Policy <for [1] movement> <costs [650] [Warp Shard]>",
-					"Free Technology <for [1] movement> <costs [650] [Warp Shard]>",
+        "uniques": ["Free Social Policy <for [1] movement> <costs [800] [Warp Shard]>",
+					"Free Technology <for [1] movement> <costs [800] [Warp Shard]>",
 
 					"[1] free [Infantry] units appear <for [1] movement> <costs [500] [Warp Shard]>",
-                    "[1] free [Artillery] units appear <for [1] movement> <costs [520] [Warp Shard]>",
+                    "[1] free [Artillery] units appear <for [1] movement> <costs [550] [Warp Shard]>",
 					"[1] free [Submarine] units appear <for [1] movement> <costs [500] [Warp Shard]>"]
     },
     {
         "name": "Evolution VII",
-        "uniques": ["Free Social Policy <for [1] movement> <costs [700] [Warp Shard]>",
-					"Free Technology <for [1] movement> <costs [700] [Warp Shard]>",
+        "uniques": ["Free Social Policy <for [1] movement> <costs [900] [Warp Shard]>",
+					"Free Technology <for [1] movement> <costs [900] [Warp Shard]>",
 
 					"[1] free [Marine] units appear <for [1] movement> <costs [600] [Warp Shard]>",
-                    "[1] free [Rocket Artillery] units appear <for [1] movement> <costs [620] [Warp Shard]>",
+                    "[1] free [Rocket Artillery] units appear <for [1] movement> <costs [650] [Warp Shard]>",
 					"[1] free [Nuclear Submarine] units appear <for [1] movement> <costs [600] [Warp Shard]>"]
     },
     {
         "name": "Evolution VIII",
-        "uniques": ["Free Social Policy <for [1] movement> <costs [750] [Warp Shard]>",
-					"Free Technology <for [1] movement> <costs [750] [Warp Shard]>",
+        "uniques": ["Free Social Policy <for [1] movement> <costs [1000] [Warp Shard]>",
+					"Free Technology <for [1] movement> <costs [1000] [Warp Shard]>",
 
 					"[1] free [Modern Armor] units appear <for [1] movement> <costs [600] [Warp Shard]>",
-                    "[1] free [Giant Death Robot] units appear <for [1] movement> <costs [600] [Warp Shard]>",
+                    "[1] free [Giant Death Robot] units appear <for [1] movement> <costs [650] [Warp Shard]>",
 					"[1] free [Nuclear Submarine] units appear <for [1] movement> <costs [600] [Warp Shard]>"]
     },
     {
