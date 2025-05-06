@@ -87,7 +87,8 @@
         "uniqueName": "Blessing of Chaos",
         "uniques": ["Comment [Units get specific buffs]",
 			        "[-100]% unhappiness from the number of cities", "[-100]% Unhappiness from [Population] [in your cities]",
-
+					"Enemy [Wounded] Units must spend [1] extra movement points when inside your territory",
+					"Enemy [All] Units must spend [1] extra movement points when inside your territory",
 					"Nullifies [Food] [in all cities] <hidden from users>",
 					"Nullifies [Production] [in all cities] <hidden from users>",
 					"[-100]% maintenance costs <hidden from users>",
