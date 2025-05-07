@@ -77,8 +77,7 @@
     },
 	{
         "name": "Prayer",
-		"uniques": ["[This Unit] heals [20] HP <upon turn end>",
-					"[2] free [Angel] units appear <upon turn end> <hidden from users>",]
+		"uniques": ["[This Unit] heals [20] HP <upon turn end>",]
     },
 	{
         "name": "Corrupted",
