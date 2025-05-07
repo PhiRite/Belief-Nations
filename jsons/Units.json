@@ -73,7 +73,7 @@
         "movement": 4,
         "cost": 650,
         "uniques": ["Can Spread Religion <for [2] movement> <costs [+25 Faith] stats>", "[1] additional attacks per turn",
-                    
+                    "[2] free [Angel] units appear <upon gaining the [Prayer] status> <hidden from users>",
                     "Comment [Summons 2 Angels upon Praying]", "[This Unit] heals [20] HP <upon turn end> <when adjacent to a [Prayer] unit>",
                     "[This Unit] gains the [Prayer] status for [1] turn(s) <costs [+200 Faith] stats> <for units without [Cooldown]>",
                     "[This Unit] gains the [Cooldown] status for [5] turn(s) <upon gaining the [Prayer] status> <hidden from users>",
