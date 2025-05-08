@@ -115,6 +115,16 @@
                     "[-5]% Strength for enemy [All] units in adjacent [All] tiles",
                     "Destroys tile improvements when attacking"]
     },
+	{
+		"name": "Absolute Excess",
+        "uniques": ["[1] Movement", "[1] additional attacks per turn",
+					"[1] Sight", "Withdraws before melee combat <with [20]% chance> <once>"]
+	},
+	{
+		"name": "Beacon of Darkness",
+        "uniques": ["Comment [Acts as a Beacon for the Invasion]"
+					"[This Unit] gains [1] movement <upon damaging a [All] unit>", "[1] Sight <hidden from users>"]
+	},
     {
         "name": "Evolution I",
         "uniques": ["Free Social Policy <for [1] movement> <costs [300] [Warp Shard]>",
