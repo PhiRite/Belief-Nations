@@ -95,7 +95,7 @@
         "name": "Wrath",
         "uniques": ["Comment [Unit will have unlimited attacks heal from kills, but each atk slowly kills the units]",
 					"Earn [15]% of the damage done to [All] units as [Faith]",
-                    "[This Unit] gains the [Bloodletter] status for [1] turn(s) <costs [+50 Faith] stats> <for [0] movement> <for units without [Cooldown]>",
+                    "[This Unit] gains the [Bloodletter] status for [1] turn(s) <costs [50] [Warp Shard]> <for [0] movement> <for units without [Cooldown]>",
                     "[This Unit] gains the [Cooldown] status for [5] turn(s) <upon gaining the [Bloodletter] status> <hidden from users>"]
     },
     {
@@ -106,8 +106,7 @@
                     "[This Unit] takes [10] damage <upon damaging a [All] unit>",
                     "[This Unit] gains [2] movement <upon damaging a [All] unit>",
                     "[This Unit] gains [2] movement <upon defeating a [All] unit>",
-                    "Heals [30] damage if it kills a unit",
-                    "Gain [15] [Faith] <upon defeating a [All] unit>"]
+                    "Heals [30] damage if it kills a unit"]
     },
     {
         "name": "Plague",
