@@ -125,11 +125,15 @@
 					"[1] free [Great General] units appear <for [3] movement> <costs [300] [Warp Shard]>",
 					"[1] free [Great Prophet] units appear <for [3] movement> <costs [300] [Warp Shard]>",
 					
-					"[This Unit] gains the [Psychic Casting] promotion <when number of [[Psychic Casting] Units] is more than [0]> <upon turn end> <hidden from users>",
-					"[This Unit] gains the [Psychic Drain] promotion <when number of [[Psychic Drain] Units] is more than [0]> <upon turn end> <hidden from users>",
-					"[This Unit] gains the [Psychic Movement] promotion <when number of [[Psychic Movement] Units] is more than [0]> <upon turn end> <hidden from users>",
-					"[This Unit] gains the [Psychic Strikes] promotion <when number of [[Psychic Strikes] Units] is more than [0]> <upon turn end> <hidden from users>",
-					"[This Unit] gains the [Unveiling Truth] promotion <when number of [[Unveiling Truth] Units] is more than [0]> <upon turn end> <hidden from users>",
+					"[This Unit] gains the [Psychic Casting] promotion <when number of [[Psychic Casting] Units] is more than [0]> <upon entering a [All] tile> <hidden from users>",
+					"[This Unit] gains the [Psychic Drain] promotion <when number of [[Psychic Drain] Units] is more than [0]> <upon entering a [All] tile> <hidden from users>",
+					"[This Unit] gains the [Psychic Movement] promotion <when number of [[Psychic Movement] Units] is more than [0]> <upon entering a [All] tile> <hidden from users>",
+					"[This Unit] gains the [Psychic Strikes] promotion <when number of [[Psychic Strikes] Units] is more than [0]> <upon entering a [All] tile> <hidden from users>",
+					"[This Unit] gains the [Unveiling Truth] promotion <when number of [[Unveiling Truth] Units] is more than [0]> <upon entering a [All] tile> <hidden from users>",
+					"[This Unit] gains the [Beacon of Darkness] status for [10] turn(s) <when number of [[Beacon of Darkness] Units] is more than [0]> <upon entering a [All] tile> <hidden from users>",
+					
+					"[This Unit] gains the [Beacon of Darkness] status for [10] turn(s) <when number of [[Beacon of Darkness] Units] is less than [0]> <for [0] movement> <costs [5000] [Warp Shard]>",
+					"[This Unit] gains the [Cooldown] status for [20] turn(s) <upon gaining the [Beacon of Darkness] status> <hidden from users>",
 
                     "[This Unit] gains the [Evolution I] promotion <when number of [Era Counter] is equal to [1]> <upon turn start> <hidden from users>",
                     "[This Unit] loses the [Evolution I] promotion <upon gaining the [Evolution II] promotion> <upon turn end> <hidden from users>",
