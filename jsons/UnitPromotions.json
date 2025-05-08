@@ -82,7 +82,7 @@
 	{
         "name": "Corrupted",
         "uniques": ["Consumes [-1] [Warp Shard] <hidden from users>",
-                    "May Paradrop up to [5] tiles from inside friendly territory",
+                    "May Paradrop up to [5] tiles from inside friendly territory <for [1] movement>",
                     "No damage penalty for wounded units",
                     "[-100]% maintenance costs", "Can build [Land] improvements on tiles",
 		            "Can build [Water] improvements on tiles",
