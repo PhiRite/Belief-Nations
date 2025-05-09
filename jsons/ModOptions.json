@@ -1,1 +1,8 @@
-{"modUrl":"https://github.com/PhiRite/Belief-Nations","defaultBranch":"main","author":"PhiRite","lastUpdated":"2025-05-04T18:45:26Z","modSize":121,"topics":["unciv-mod","unciv-mod-expansions","unciv-mod-fun"]}
+{"modUrl":"https://github.com/PhiRite/Belief-Nations","defaultBranch":"main","author":"PhiRite","lastUpdated":"2025-05-04T18:45:26Z","modSize":121,
+    "topics":["unciv-mod","unciv-mod-expansions","unciv-mod-fun"],
+    "uniques": [
+        "Allow City States to spawn with additional units",
+        "Can trade civilization introductions for [100] Gold",
+        "Allow raze capital",
+        "Allow raze holy city"    
+    ],}
