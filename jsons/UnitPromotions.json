@@ -233,10 +233,4 @@
         "unitTypes": ["Warp Spawn"],
 		"column": 1
     },
-	{
-		"name": "Untainted",
-        "uniques": ["[This Unit] takes [5] damage <upon ending a turn in a [Corruption] tile> ",
-                    "[This Unit] takes [15] damage <upon ending a turn in a [Portal] tile>"],
-	                    
-	}
 ]
