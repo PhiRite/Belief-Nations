@@ -4,9 +4,8 @@
 		"uniqueTo": "Warp Invasion",
 		"turnsToBuild": 5,
 		"terrainsCanBeBuiltOn": ["Land", "Water", "Lakes"],
-		"uniques": ["Can be built outside your borders", "Consumes [-1] [Warp Shard] <for every [1] [Era Counter]> <hidden from users>",
-				        "Gain control over [All] tiles in a [0]-tile radius", "Removes removable features when built",
-					"[-5 Food, -5 Culture, -5 Science, -5 Gold, -5 Faith, -5 Production] <in [Enemy Land] tiles>",
+		"uniques": ["Can be built outside your borders", "Consumes [-1] [Warp Shard] <for every [1] [Era Counter]> <hidden from users>", "Removes removable features when built",
+					"[-5 Food, -5 Culture, -5 Science, -5 Gold, -5 Faith, -5 Production] <in [non-[Warp Invasion]] tiles>", 
 					"Does not need removal of [Forest]","Does not need removal of [Jungle]"],
 		"civilopediaText": [
 			{"text": "The Truth seeping out."}
