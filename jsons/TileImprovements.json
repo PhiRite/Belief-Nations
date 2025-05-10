@@ -8,7 +8,7 @@
 					"[-5 Food, -5 Culture, -5 Science, -5 Gold, -5 Faith, -5 Production] <in [non-[Warp Invasion]] tiles>", 
 					"Does not need removal of [Forest]","Does not need removal of [Jungle]"],
 		"civilopediaText": [
-			{"text": "The Truth seeping out."}
+			{"text": "Decreases Outputs when placed in Other Civs Cities. Creates [Warp Shard] which increases every Era"}
         ]
 	},
     {
@@ -23,7 +23,7 @@
 					"Removes removable features when built",
 					"Does not need removal of [Forest]","Does not need removal of [Jungle]"],
 		"civilopediaText": [
-			{"text": "Beginnings of an Invasion."}
+			{"text": "Decreases Outputs when placed in Other Civs Cities. Creates [Warp Shard] which increases every Era, Creates More [Warp Shard] When Surrounded by [Corruption] tiles"}
         ]
 	},
 	{
