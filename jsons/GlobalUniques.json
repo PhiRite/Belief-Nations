@@ -11,7 +11,7 @@
                     "[This Unit] heals [5] HP <upon ending a turn in a [Warp Invasion] tile> <for [Warp Invasion] units>",
 
 
-                    "[+30]% XP required for promotions <for [Psychic Casting] units>",
+                    "[+30]% XP required for promotions",
                     //"[This Unit] gains the [Untainted] promotion <upon entering a [All] tile> <for [All] units> <for [non-[Warp Invasion]] Civilizations>",
                     ]
 }
