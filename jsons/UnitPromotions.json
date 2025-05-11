@@ -196,7 +196,7 @@
     },
     {
         "name": "Psychic Casting",
-        "uniques": ["[3] Range", "[4] Sight", "[+30]% XP required for promotions"],
+        "uniques": ["[3] Range", "[4] Sight"],
         "unitTypes": ["Warp Spawn"],
 		"column": 1
     },
@@ -204,14 +204,14 @@
         "name": "Psychic Drain",
         "prerequisites": ["Psychic Casting"],
         "uniques": ["Earn [15]% of the damage done to [All] units as [Warp Shard] <for every [1] [Era Counter]>",
-                    "[This Unit] heals [5] HP <upon damaging a [All] unit>", "[+30]% XP required for promotions"],
+                    "[This Unit] heals [5] HP <upon damaging a [All] unit>"],
         "unitTypes": ["Warp Spawn"],
 		"column": 1
     },
     {
         "name": "Psychic Movement",
         "prerequisites": ["Psychic Drain"],
-        "uniques": ["[2] Movement", "Withdraws before melee combat <with [30]% chance>", "[+30]% XP required for promotions"],
+        "uniques": ["[2] Movement", "Withdraws before melee combat <with [30]% chance>"],
         "unitTypes": ["Warp Spawn"],
 		"column": 1
     },
@@ -219,7 +219,7 @@
         "name": "Psychic Strikes",
         "prerequisites": ["Psychic Movement"],
         "uniques": ["[1] additional attacks per turn <for every [1] [Era Counter]>",
-                    "[This Unit] gains [1] movement <upon damaging a [All] unit>", "[+30]% XP required for promotions"],
+                    "[This Unit] gains [1] movement <upon damaging a [All] unit>"],
         "unitTypes": ["Warp Spawn"],
 		"column": 1
     },
