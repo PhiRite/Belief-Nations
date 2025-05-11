@@ -13,7 +13,7 @@
         "uniques": ["Cannot be purchased",
                     "Triggers a global alert upon build start <hidden from users>", 
                     "Triggers a global alert upon completion <hidden from users>",
-                    "Only available <when above [5] [Era Counter]>", "Uncapturable",
+                    "Only available <when above [4] [Era Counter]>", "Uncapturable",
 
 		            "Can carry [4] [Missile Barrage] units",
                     "Heals [20] damage if it kills a unit",
@@ -26,9 +26,10 @@
                     "[This Unit] gains the [Artillery Mode] status for [3] turn(s) <for [0] movement> <for units without [Cooldown]>",
                     "[This Unit] gains the [Cooldown] status for [5] turn(s) <upon gaining the [Rearming] status> <hidden from users>",
 
+                    "[+100]% Strength <when above [5] [Era Counter]> <hidden from users>",
                     "[+100]% Strength <when above [6] [Era Counter]> <hidden from users>",
                     "[+100]% Strength <when above [7] [Era Counter]> <hidden from users>",
-                    "[+100]% Strength <when above [8] [Era Counter]> <hidden from users>"
+					"[+100]% Strength <when above [8] [Era Counter]> <hidden from users>",
                     ],
         "attackSound": "gdrAttack"
     },
