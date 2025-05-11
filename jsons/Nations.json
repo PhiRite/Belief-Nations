@@ -22,6 +22,7 @@
         "uniques": ["[+1 Production, -1 Faith, +1 Culture] from all [Faith] buildings",
 					"[+1 Production, -1 Faith, +1 Science] from all [Science] buildings",
 			        "[+1 Science, +1 Production] per [1] population [in your cities]",
+					"[-100]% maintenance on road & railroads",
 			        "May buy [Great Teacher] units with [Gold] for [3] times their normal Production cost <hidden from users>",
 					"Provides [1] [Nano Core] <for every [3] [Cities]> <hidden from users>",
 					"Quantity of strategic resources produced by the empire +[100]%",
