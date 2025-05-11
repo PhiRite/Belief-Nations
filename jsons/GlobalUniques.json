@@ -1,6 +1,6 @@
 {
     "name": "Global uniques",
-    "uniques": ["[+30]% XP required for promotions <for [Psychic Casting] units>",],
+    "uniques": ["[+30]% XP required for promotions <for [Fate Weaver] units>",],
     "unitUniques": ["[This Unit] gains the [Corrupted] promotion <upon entering a [All] tile> <for [All] units> <for [Warp Invasion] Civilizations>",
                     "[This Unit] gains the [Plague] promotion <upon entering a [All] tile> <for [Land] units> <for [Warp Invasion] Civilizations>",
                     "[This Unit] gains the [Wrath] promotion <upon entering a [All] tile> <for [Melee] units> <for [Warp Invasion] Civilizations>",
