@@ -83,18 +83,16 @@
         "name": "Corrupted",
         "uniques": ["Consumes [-1] [Warp Shard] <hidden from users>",
                     "May Paradrop up to [5] tiles from inside friendly territory",
-                    "No damage penalty for wounded units",
                     "[-100]% maintenance costs", "Can build [Land] improvements on tiles",
 		            "Can build [Water] improvements on tiles",
                     "[+10]% to Flank Attack bonuses",
                     "Can move immediately once bought",
-                    "[This Unit] gains [3] movement",
+                    "[This Unit] gains [2] movement",
                     "[-20]% Strength <when defending>"]
     },
     {
         "name": "Wrath",
         "uniques": ["Comment [Unit will have unlimited attacks heal from kills, but each atk slowly kills the units]",
-					"Earn [15]% of the damage done to [All] units as [Faith]",
                     "[This Unit] gains the [Bloodletter] status for [1] turn(s) <costs [50] [Warp Shard]> <for [0] movement> <for units without [Cooldown]>",
                     "[This Unit] gains the [Cooldown] status for [5] turn(s) <upon gaining the [Bloodletter] status> <hidden from users>"]
     },
@@ -106,12 +104,11 @@
                     "[This Unit] takes [10] damage <upon damaging a [All] unit>",
                     "[This Unit] gains [2] movement <upon damaging a [All] unit>",
                     "[This Unit] gains [2] movement <upon defeating a [All] unit>",
-                    "Heals [30] damage if it kills a unit"]
+                    "Heals [20] damage if it kills a unit"]
     },
     {
         "name": "Plague",
         "uniques": ["[-10]% Strength for enemy [Wounded] units in adjacent [All] tiles",
-                    "[-10]% Strength for enemy [All] units in adjacent [All] tiles <when below [31] HP>",
                     "[-5]% Strength for enemy [All] units in adjacent [All] tiles",
                     "Destroys tile improvements when attacking"]
     },
@@ -122,13 +119,13 @@
 	},
 	{
 		"name": "Beacon of Darkness",
-        "uniques": ["Comment [Acts as a Beacon for the Invasion]"
+        "uniques": ["Comment [Acts as a Beacon for the Invasion]",
 					"[This Unit] gains [1] movement <upon damaging a [All] unit>", "[1] Sight <hidden from users>"]
 	},
     {
         "name": "Evolution I",
         "uniques": ["Free Social Policy <for [1] movement> <costs [300] [Warp Shard]>",
-					"Free Technology <for all movement> <costs [300] [Warp Shard]>",
+					"Gain [10] [Science] <for all movement> <costs [300] [Warp Shard]>",
             
                     "[1] free [Scout] units appear <for [1] movement> <costs [60] [Warp Shard]>",
 					"[1] free [Warrior] units appear <for [1] movement> <costs [100] [Warp Shard]>",
@@ -137,7 +134,7 @@
     {
         "name": "Evolution II",
         "uniques": ["Free Social Policy <for [1] movement> <costs [400] [Warp Shard]>",
-					"Free Technology <for all movement> <costs [400] [Warp Shard]>",
+					"Gain [20] [Science] <for all movement> <costs [400] [Warp Shard]>",
 
 					"[1] free [Spearman] units appear <for [1] movement> <costs [150] [Warp Shard]>",
                     "[1] free [Catapult] units appear <for [1] movement> <costs [150] [Warp Shard]>",
@@ -146,7 +143,7 @@
     {
         "name": "Evolution III",
         "uniques": ["Free Social Policy <for [1] movement> <costs [500] [Warp Shard]>",
-					"Free Technology <for all movement> <costs [500] [Warp Shard]>",
+					"Gain [80] [Science] <for all movement> <costs [500] [Warp Shard]>",
 
 					"[1] free [Knight] units appear <for [1] movement> <costs [250] [Warp Shard]>",
                     "[1] free [Trebuchet] units appear <for [1] movement> <costs [200] [Warp Shard]>",
@@ -155,7 +152,7 @@
     {
         "name": "Evolution IV",
         "uniques": ["Free Social Policy <for [1] movement> <costs [600] [Warp Shard]>",
-					"Free Technology <for all movement> <costs [600] [Warp Shard]>",
+					"Gain [300] [Science] <for all movement> <costs [600] [Warp Shard]>",
 
 					"[1] free [Musketeer] units appear <for [1] movement> <costs [300] [Warp Shard]>",
                     "[1] free [Cannon] units appear <for [1] movement> <costs [350] [Warp Shard]>",
@@ -164,7 +161,7 @@
     {
         "name": "Evolution V",
         "uniques": ["Free Social Policy <for [1] movement> <costs [700] [Warp Shard]>",
-					"Free Technology <for all movement> <costs [700] [Warp Shard]>",
+					"Gain [800] [Science] <for all movement> <costs [700] [Warp Shard]>",
 
 					"[1] free [Rifleman] units appear <for [1] movement> <costs [400] [Warp Shard]> ",
                     "[1] free [Artillery] units appear <for [1] movement> <costs [450] [Warp Shard]>",
@@ -173,7 +170,7 @@
     {
         "name": "Evolution VI",
         "uniques": ["Free Social Policy <for [1] movement> <costs [800] [Warp Shard]>",
-					"Free Technology <for all movement> <costs [800] [Warp Shard]>",
+					"Gain [2000] [Science] <for all movement> <costs [800] [Warp Shard]>",
 
 					"[1] free [Infantry] units appear <for [1] movement> <costs [500] [Warp Shard]>",
                     "[1] free [Artillery] units appear <for [1] movement> <costs [550] [Warp Shard]>",
@@ -182,7 +179,7 @@
     {
         "name": "Evolution VII",
         "uniques": ["Free Social Policy <for [1] movement> <costs [900] [Warp Shard]>",
-					"Free Technology <for all movement> <costs [900] [Warp Shard]>",
+					"Gain [3500] [Science] <for all movement> <costs [900] [Warp Shard]>",
 
 					"[1] free [Marine] units appear <for [1] movement> <costs [600] [Warp Shard]>",
                     "[1] free [Rocket Artillery] units appear <for [1] movement> <costs [650] [Warp Shard]>",
@@ -191,7 +188,7 @@
     {
         "name": "Evolution VIII",
         "uniques": ["Free Social Policy <for [1] movement> <costs [1000] [Warp Shard]>",
-					"Free Technology <for all movement> <costs [1000] [Warp Shard]>",
+					"Gain [6000] [Science] <for all movement> <costs [1000] [Warp Shard]>",
 
 					"[1] free [Modern Armor] units appear <for [1] movement> <costs [600] [Warp Shard]>",
                     "[1] free [Giant Death Robot] units appear <for [1] movement> <costs [650] [Warp Shard]>",
