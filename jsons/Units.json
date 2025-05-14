@@ -154,5 +154,27 @@
                     "[This Unit] gains the [Evolution VIII] promotion <when number of [Era Counter] is more than [7]> <upon turn start> <hidden from users>"],
         "attackSound": "gdrAttack"
 
-    }
+    },
+	{
+        "name": "Redemptor",
+        "unitType": "Walker",
+        "uniqueTo": "Holy Crusade",
+        "replaces": "Great General",
+        "strength": 25,
+        "movement": 3,
+        "cost": 500,
+        "uniques": [
+                    "[+15]% Strength <for every [Era Counter]> <hidden from users>", "Can move after attacking",
+					"[-15]% Strength <hidden from users>", "Can move immediately once bought <hidden from users>", 
+					"Unbuildable <when not at war>", "Uncapturable",  "Can be purchased for [500] [Faith] [in your cities]",
+					"[+1]% Strength <for every [50] [Faith]>", "Instantly gain [-200] [Faith] <upon being defeated>",
+					"Prevents spreading of religion to the city it is next to", "Earn [50]% of the damage done to [All] units as [Faith]",
+					"Earn [20]% of the damage done to [All] units as [Golden Age points]", "No damage penalty for wounded units",
+
+					"[This Unit] gains the [Undying Devotion] promotion <upon entering a [All] tile> <hidden from users>",
+		    		],
+        "attackSound": "metalhit",
+        "attackSound": "metalhit",
+        "religiousStrength": 500
+    },
 ]
