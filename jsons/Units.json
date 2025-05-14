@@ -167,10 +167,10 @@
                     "[+15]% Strength <for every [Era Counter]> <hidden from users>", "Can move after attacking",
 					"[-15]% Strength <hidden from users>", "Can move immediately once bought <hidden from users>", 
 					"Unbuildable <when not at war>", "Uncapturable",  "Can be purchased for [500] [Faith] [in your cities]",
-					"[+1]% Strength <for every [50] [Faith]>", "Instantly gain [-200] [Faith] <upon being defeated>",
+					"[+1]% Strength <for every [50] [Faith]>", "Instantly gain [-150] [Faith] <upon being defeated>",
 					"Prevents spreading of religion to the city it is next to", "Earn [50]% of the damage done to [All] units as [Faith]",
 					"Earn [20]% of the damage done to [All] units as [Golden Age points]", "No damage penalty for wounded units",
-
+					"[This Unit] gains the [Unending Crusade] promotion <upon entering a [All] tile> <hidden from users>",
 					"[This Unit] gains the [Undying Devotion] promotion <upon entering a [All] tile> <hidden from users>",
 		    		],
         "attackSound": "metalhit",
