@@ -242,6 +242,17 @@
 		 "Instantly gain [-50] [Faith] <upon being defeated>"]
 	},
 	{
+	"name": "Righteous Fury",
+	"uniques": ["Comment [unit gains more attacks and moves when at low health(at 30 and 25)]",
+			"[1] additional attacks per turn <during a Golden Age>",
+			"[1] additional attacks per turn <when below [31] HP>",
+			"[1] additional attacks per turn <when below [26] HP>",
+			"[This Unit] heals [10] HP <upon damaging a [All] unit> <when below [10] HP>",
+			"[This Unit] gains [1] movement <upon damaging a [All] unit> <when below [40] HP>",
+			"[This Unit] gains [1] movement <upon damaging a [All] unit> <when below [51] HP> <during a Golden Age>",
+			"[This Unit] gains [1] movement <when below [26] HP>"]	
+	},
+	{
 	"name": "Undying Devotion",
 	"uniques": ["[This Unit] heals [15] HP <upon losing at least [1] HP in a single attack> <for units without [Undying II]> <when below [25] HP>",
 	            "[This Unit] gains the [Undying II] status for [1] turn(s) <upon losing at least [1] HP in a single attack> <when below [25] HP>"]
