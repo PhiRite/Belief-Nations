@@ -56,7 +56,7 @@
 		"startBias": ["Grassland"],
         
         "uniqueName": "Call to Heavens",
-        "uniques": ["[+1 Faith] per [1] population [in your cities]",
+        "uniques": ["[+1 Faith] per [1] population [in your cities]", "Comment [Gains Access to a unique Belief that gives Faith per each Follower]",
 			        "May choose [1] additional belief(s) of any type when [founding] a religion",
 			        "May buy [Angel] units with [Faith] for [2] times their normal Production cost <hidden from users>",
 					"[+2 Faith, +1 Happiness] <for every [[Angel] Units]>", "[+3 Faith, +1 Happiness] <for every [[Archangel] Units]>",
