@@ -1,4 +1,5 @@
-[
+[	
+	//Non-Believers
     {
         "name": "Missile Reload",
         "uniques": ["[This Unit] gains the [Rearming] status for [1] turn(s) <for [0] movement> <for units without [Cooldown]>",
@@ -32,7 +33,7 @@
 		            "Earn [50]% of killed [All] unit's [Strength] as [Culture]"]
 	},
 
-
+	//Hall of Angels
 	{
 		"name": "Healing Prayer",
 		"uniques": ["[This Unit] heals [50] HP", "Doing so will consume this opportunity to choose a Promotion"],
@@ -79,6 +80,8 @@
         "name": "Prayer",
 		"uniques": ["[This Unit] heals [20] HP <upon turn end>",]
     },
+
+	//Warp invasion
 	{
         "name": "Corrupted",
         "uniques": ["Consumes [-1] [Warp Shard] <hidden from users>",
@@ -230,4 +233,27 @@
         "unitTypes": ["Warp Spawn"],
 		"column": 1
     },
+
+	//Holy Crusade
+	{
+	"name": "Unending Crusade",
+	"uniques": ["Earn [25]% of the damage done to [All] units as [Faith]",
+		 "[+1]% Strength <for every [50] [Faith]>",
+		 "Instantly gain [-50] [Faith] <upon being defeated>"]
+	},
+	{
+	"name": "Undying Devotion",
+	"uniques": ["[This Unit] heals [15] HP <upon losing at least [1] HP in a single attack> <for units without [Undying II]> <when below [25] HP>",
+	            "[This Unit] gains the [Undying II] status for [1] turn(s) <upon losing at least [1] HP in a single attack> <when below [25] HP>"]
+	},
+	{
+	"name": "Undying II",
+	"uniques": ["[This Unit] heals [15] HP <upon losing at least [1] HP in a single attack> <for units without [Undying III]> <when below [25] HP>",
+	            "[This Unit] gains the [Undying III] status for [1] turn(s) <upon losing at least [1] HP in a single attack> <when below [25] HP>"]
+	},
+	{
+	"name": "Undying III",
+	"uniques": ["[This Unit] heals [15] HP <upon losing at least [1] HP in a single attack> <for units without [Cooldown]> <during a Golden Age> <when below [25] HP>",
+	            "[This Unit] gains the [Cooldown] status for [1] turn(s) <upon losing at least [1] HP in a single attack> <when below [25] HP>"]
+	},
 ]
