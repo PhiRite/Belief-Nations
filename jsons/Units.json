@@ -172,6 +172,7 @@
 					"Earn [20]% of the damage done to [All] units as [Golden Age points]", "No damage penalty for wounded units",
 					"[This Unit] gains the [Unending Crusade] promotion <upon entering a [All] tile> <hidden from users>",
 					"[This Unit] gains the [Undying Devotion] promotion <upon entering a [All] tile> <hidden from users>",
+					"Can move after attacking",
 		    		],
         "attackSound": "metalhit",
         "attackSound": "metalhit",
