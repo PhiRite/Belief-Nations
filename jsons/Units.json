@@ -158,7 +158,7 @@
 	{
         "name": "Redemptor",
         "unitType": "Walker",
-        "uniqueTo": "Holy Crusade",
+        "uniqueTo": "Holy Crusaders",
         "replaces": "Great General",
         "strength": 25,
         "movement": 3,
