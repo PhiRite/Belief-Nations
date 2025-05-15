@@ -267,4 +267,20 @@
 	"uniques": ["[This Unit] heals [15] HP <upon losing at least [1] HP in a single attack> <for units without [Cooldown]> <during a Golden Age> <when below [25] HP>",
 	            "[This Unit] gains the [Cooldown] status for [1] turn(s) <upon losing at least [1] HP in a single attack> <when below [25] HP>"]
 	},
+	{
+	"name": "Blessed Equipment",
+	"uniques": ["[1] additional attacks per turn",
+				"[This Unit] gains [1] movement <upon damaging a [All] unit>",
+				"Ignores terrain cost",
+				"Earn [25]% of the damage done to [Land] units as [Faith]",]
+	},
+	{
+	"name": "Blessed Sight",
+	"uniques": ["Ranged attacks may be performed over obstacles",
+				"Earn [15]% of the damage done to [Land] units as [Faith]",
+				"[1] additional attacks per turn",
+				"[This Unit] gains [2] movement <upon damaging a [All] unit>",
+				"[+1] Range",
+				"[+3] Sight"]
+	},
 ]
