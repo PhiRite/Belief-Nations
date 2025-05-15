@@ -127,7 +127,7 @@
         "uniqueName": "Righteous Glory",
         "uniques": ["All newly-trained [Military] units [in your cities] receive the [Unending Crusade] promotion",
 					"All newly-trained [Melee] units [in your cities] receive the [Righteous Fury] promotion",
-					"All newly-trained [Military] units [in your cities] receive the [Unending Devotion] promotion",
+					"[+1 Production, +1 Food, +1 Gold, +1 Science, +1 Culture, +1 Happiness, +1 Faith] per every [100] [Faith] <during a Golden Age>",
 					"Comment [Ranged units and Melee units gain Special Status for 3 turns when beside a [Redemptor] Unit]"],
 
         "cities": ["Sanctum Gloria", "Holyreach", "Templar’s Rest", "Caelumfort", "Aegis of Faith", "Radiant Bastion", 
