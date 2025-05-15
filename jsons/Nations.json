@@ -106,4 +106,33 @@
 			        "Gravetide Ascent", "March of Unmaking", "The Twisting Front", "Ashcrown Rift", "Veilpiercer"]
         
     }
+	{
+        "name": "Holy Crusaders",
+        "leaderName": "Kairos",
+        "outerColor": [102, 0, 204],
+		"innerColor": [0, 255, 255],
+
+        "startIntroPart1": "The veil thins, and reality begins to scream.",
+
+        "declaringWar": "The gods demand chaos — your world shall writhe.",
+        "attacked": "You dare strike the blessed of the Warp? How delightful.",
+        "defeated": "I return to the void... but the storm is eternal.",
+        "introduction": "Do you seek knowledge... or are you merely a pawn?",
+        "neutralHello": "The winds shift. You were expected.",
+        "hateHello": "You've strayed too far from the script.",
+
+        "tradeRequest": "A worthy twist. Let us exchange... fates.",
+		"startBias": ["GrassLand"],
+        
+        "uniqueName": "Righteous Glory",
+        "uniques": ["All newly-trained [Military] units [in your cities] receive the [Unending Crusade] promotion",
+					"All newly-trained [Melee] units [in your cities] receive the [Righteous Fury] promotion",
+					"All newly-trained [Military] units [in your cities] receive the [Unending Devotion] promotion",],
+
+        "cities": ["Breachpoint Eternum", "The Riven Star", "Warpfall Bastion", "Screaming Gate", "The Evermarch",
+			        "Invasion Spire", "The Tearing Maw", "Reality's End", "Echohold", "Storm of Arrival",
+			        "Threshold Prime", "The Burning Spiral", "Fallwake", "The Unseen Siege", "Shatterreach",
+			        "Gravetide Ascent", "March of Unmaking", "The Twisting Front", "Ashcrown Rift", "Veilpiercer"]
+        
+    }
 ]
