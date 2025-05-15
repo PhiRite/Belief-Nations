@@ -108,31 +108,31 @@
     }
 	{
         "name": "Holy Crusaders",
-        "leaderName": "Kairos",
-        "outerColor": [102, 0, 204],
-		"innerColor": [0, 255, 255],
-
-        "startIntroPart1": "The veil thins, and reality begins to scream.",
-
-        "declaringWar": "The gods demand chaos — your world shall writhe.",
-        "attacked": "You dare strike the blessed of the Warp? How delightful.",
-        "defeated": "I return to the void... but the storm is eternal.",
-        "introduction": "Do you seek knowledge... or are you merely a pawn?",
-        "neutralHello": "The winds shift. You were expected.",
-        "hateHello": "You've strayed too far from the script.",
-
-        "tradeRequest": "A worthy twist. Let us exchange... fates.",
+        "leaderName": "High Lord Justicar",
+		"outerColor": [153, 0, 0],
+		"innerColor": [255, 255, 204],
+		
+		"startIntroPart1": "By flame and faith, we march to cleanse the unworthy.",
+		
+		"declaringWar": "You stand against the will of the Divine. We bring judgment.",
+		"attacked": "Your heresy is noted. Our banners will not falter.",
+		"defeated": "The light dims... but the crusade shall never end.",
+		"introduction": "Do you come to kneel before the righteous... or be purged?",
+		"neutralHello": "Walk in faith, and perhaps you shall be spared.",
+		"hateHello": "Your sins reek across the land. Prepare for absolution.",
+		
+		"tradeRequest": "If it serves the cause of the Divine, then let it be done."
 		"startBias": ["GrassLand"],
         
         "uniqueName": "Righteous Glory",
         "uniques": ["All newly-trained [Military] units [in your cities] receive the [Unending Crusade] promotion",
 					"All newly-trained [Melee] units [in your cities] receive the [Righteous Fury] promotion",
-					"All newly-trained [Military] units [in your cities] receive the [Unending Devotion] promotion",],
+					"All newly-trained [Military] units [in your cities] receive the [Unending Devotion] promotion",
+					"Comment [Ranged units and Melee units gain Special Status for 3 turns when beside a [Redemptor] Unit]"],
 
-        "cities": ["Breachpoint Eternum", "The Riven Star", "Warpfall Bastion", "Screaming Gate", "The Evermarch",
-			        "Invasion Spire", "The Tearing Maw", "Reality's End", "Echohold", "Storm of Arrival",
-			        "Threshold Prime", "The Burning Spiral", "Fallwake", "The Unseen Siege", "Shatterreach",
-			        "Gravetide Ascent", "March of Unmaking", "The Twisting Front", "Ashcrown Rift", "Veilpiercer"]
+        "cities": ["Sanctum Gloria", "Holyreach", "Templar’s Rest", "Caelumfort", "Aegis of Faith", "Radiant Bastion", 
+		"Lancepoint", "Jerusalon", "Divine Hold", "Sunspire", "Fort Benediction", "Gracemarch", "Swordhaven", "Chapelgate", 
+		"Valorwatch", "Sainthorn", "Cathedra Magna"]
         
     }
 ]
