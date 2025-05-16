@@ -17,4 +17,9 @@
         "uniques": ["Ignores terrain cost",  "Can enter ice tiles",
                     "May travel on Water tiles without embarking"]
     }
+    {
+        "name": "Heavy Walker",
+        "movementType": "Land",
+        "uniques": ["Ignores terrain cost"]
+    },
 ]
