@@ -18,7 +18,7 @@
                     "May travel on Water tiles without embarking"]
     }
     {
-        "name": "Heavy Walker",
+        "name": "Walker",
         "movementType": "Land",
         "uniques": ["Ignores terrain cost"]
     },
