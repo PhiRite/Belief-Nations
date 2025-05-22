@@ -25,6 +25,13 @@ NationIcons/Hall of Angels
   orig: 100, 100
   offset: 0, 0
   index: -1
+NationIcons/Holy Crusaders
+  rotate: false
+  xy: 544, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 NationIcons/Non-Believers
   rotate: false
   xy: 868, 112
@@ -34,7 +41,7 @@ NationIcons/Non-Believers
   index: -1
 NationIcons/Warp Invasion
   rotate: false
-  xy: 1192, 112
+  xy: 1408, 112
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -55,14 +62,14 @@ ResourceIcons/Nano Core
   index: -1
 ResourceIcons/Seraphite
   rotate: false
-  xy: 1084, 112
+  xy: 1300, 112
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Warp Shard
   rotate: false
-  xy: 1300, 112
+  xy: 1516, 112
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -83,7 +90,7 @@ TileSets/AbsoluteUnits/Units/Archangel
   index: -1
 TileSets/AbsoluteUnits/Units/Devotee
   rotate: false
-  xy: 652, 23
+  xy: 760, 23
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
@@ -97,28 +104,35 @@ TileSets/AbsoluteUnits/Units/Fate Weaver
   index: -1
 TileSets/AbsoluteUnits/Units/Great Teacher
   rotate: false
-  xy: 1408, 147
+  xy: 1624, 147
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Mobile Armor
   rotate: false
-  xy: 544, 9
+  xy: 652, 117
   size: 100, 95
   orig: 100, 95
   offset: 0, 0
   index: -1
+TileSets/AbsoluteUnits/Units/Redemptor
+  rotate: false
+  xy: 1084, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 TileSets/HexaRealm/Tiles/Corruption
   rotate: false
-  xy: 755, 48
+  xy: 863, 48
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Portal
   rotate: false
-  xy: 1493, 156
+  xy: 1709, 156
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
@@ -153,14 +167,21 @@ UnitIcons/Great Teacher
   index: -1
 UnitIcons/Missile Barrage
   rotate: false
-  xy: 544, 112
+  xy: 544, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Mobile Armor
   rotate: false
-  xy: 652, 112
+  xy: 652, 9
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Redemptor
+  rotate: false
+  xy: 1192, 112
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
