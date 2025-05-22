@@ -93,6 +93,8 @@
 					"Nullifies [Food] [in all cities] <hidden from users>",
 					"Nullifies [Production] [in all cities] <hidden from users>",
 					"[-100]% maintenance costs <hidden from users>",
+					"[-100]% maintenance on road & railroads",
+					"[-100]% maintenance cost for buildings [in your cities]",
 					"Nullifies [Culture] [in all cities] <hidden from users>",
 					"Nullifies [Science] [in all cities] <hidden from users>",
 					"Nullifies [Gold] [in all cities] <hidden from users>",
