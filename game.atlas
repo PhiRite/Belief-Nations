@@ -76,14 +76,14 @@ ResourceIcons/Warp Shard
   index: -1
 TileSets/AbsoluteUnits/Units/Angel
   rotate: false
-  xy: 4, 112
+  xy: 4, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Archangel
   rotate: false
-  xy: 112, 112
+  xy: 112, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -97,7 +97,7 @@ TileSets/AbsoluteUnits/Units/Devotee
   index: -1
 TileSets/AbsoluteUnits/Units/Fate Weaver
   rotate: false
-  xy: 328, 112
+  xy: 328, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -111,14 +111,14 @@ TileSets/AbsoluteUnits/Units/Great Teacher
   index: -1
 TileSets/AbsoluteUnits/Units/Mobile Armor
   rotate: false
-  xy: 652, 117
+  xy: 652, 9
   size: 100, 95
   orig: 100, 95
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Redemptor
   rotate: false
-  xy: 1084, 112
+  xy: 1192, 112
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -139,21 +139,21 @@ TileSets/HexaRealm/Tiles/Portal
   index: -1
 UnitIcons/Angel
   rotate: false
-  xy: 4, 4
+  xy: 4, 112
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Archangel
   rotate: false
-  xy: 112, 4
+  xy: 112, 112
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Fate Weaver
   rotate: false
-  xy: 328, 4
+  xy: 328, 112
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -174,14 +174,14 @@ UnitIcons/Missile Barrage
   index: -1
 UnitIcons/Mobile Armor
   rotate: false
-  xy: 652, 9
+  xy: 652, 112
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Redemptor
   rotate: false
-  xy: 1192, 112
+  xy: 1084, 112
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
