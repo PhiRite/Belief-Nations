@@ -54,7 +54,7 @@
 
         "tradeRequest": "The heavens approve of this exchange — let it be so.",
 		"startBias": ["Grassland"],
-        
+        //change
         "uniqueName": "Call to Heavens",
         "uniques": ["[+1 Faith] per [1] population [in your cities]", "Comment [Gains Access to a unique Belief that gives Faith per each Follower]",
 			        "May choose [1] additional belief(s) of any type when [founding] a religion",
